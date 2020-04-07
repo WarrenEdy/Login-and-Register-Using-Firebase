@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299029749185",
+    "firebase_url": "https://cancomsaassessment.firebaseio.com",
+    "project_id": "cancomsaassessment",
+    "storage_bucket": "cancomsaassessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299029749185:android:d366d66ad9938e8154a340",
+        "android_client_info": {
+          "package_name": "com.example.cancomsaassessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299029749185-lqm1su54mcuccdu0r8od37bfm9eg2ko4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwCCTo-9sxsGQy1gC5OYc7h7BsAoDscmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299029749185-lqm1su54mcuccdu0r8od37bfm9eg2ko4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
